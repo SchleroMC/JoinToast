@@ -1,0 +1,6 @@
+name: JoinToast
+version: 1.0.0
+main: com.schlero.jointoast.JoinToastPlugin
+api: ["3.0.3"]
+author: Schlero
+description: Sends a customizable toast notification when players join.
