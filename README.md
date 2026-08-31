@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform](https://img.shields.io/badge/Platform-PowerNukkitX-green.svg)](https://powernukkitx.org/)
-[![GitHub Release](https://img.shields.io/github/v/release/SchleroMC/JoinToast)](https://github.com/SchleroMC/JoinToast/releases)
+[![GitHub Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/SchleroMC/JoinToast/releases)
 
 A free and open-source PowerNukkitX plugin to make customizable join toast messages.
 
